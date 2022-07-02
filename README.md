@@ -1,8 +1,9 @@
-## Opa beleza? Me chamo Tiago Junker e sou Dev Front-end em transição de carreira!
+## <p align="center">👋 Opa beleza? Me chamo Tiago Junker,<br>sou desenvolvedor Front-end!<p>
 <div align="center">
   <a href="https://github.com/tiagojunker">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagojunker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagojunker&layout=compact&langs_count=7&theme=dracula"/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagojunker&show_icons=true&locale=en&layout=compact" alt="tiagojunker" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagojunker&" alt="tiagojunker" /></p>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
