@@ -6,7 +6,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagojunker&" alt="tiagojunker" /></p>
 </div>
 <div style="display: inline_block" align="center"><br>
-<h2 align="center">Minha Stack<h2>
+<h2 align="center">Tecnologias<h2>
   <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
