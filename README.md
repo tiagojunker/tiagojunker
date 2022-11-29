@@ -1,4 +1,4 @@
-## <p align="center">👋 Opa beleza? Me chamo Tiago Junker,<br>sou desenvolvedor Front-end!<p>
+## <p align="center">👋 Opa beleza? Me chamo Tiago Junker,<br>sou desenvolvedor Full-Stack!<p>
 <div align="center">
   <a href="https://github.com/tiagojunker">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagojunker&show_icons=true&locale=en&layout=compact" alt="tiagojunker" /> </p>
