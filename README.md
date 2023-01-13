@@ -1,5 +1,5 @@
 ## 💫 Sobre:
-🔭 Atualmente trabalho como técnico em uma emissora de televisão.<br>👯 Estou procurando por oportunidades como Trainee ou Dev. Jr.<br>🤝 Aceito ajuda para aprender novas tecnologias desenvolvimento Full-stack.<br>🌱 Atualmente estou estudando Inglês, Node.js e as tecnologias que o cerca.<br>👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
+🔭 Atualmente trabalho como técnico em uma emissora de televisão.<br>👯 Estou procurando por oportunidades como Trainee ou Dev. Jr.<br>🤝 Aceito ajuda para aprender novas tecnologias de desenvolvimento Full-stack.<br>🌱 Atualmente estou estudando Inglês, Node.js e as tecnologias que o cerca.<br>👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
 
 
 ## 🌐 Socials:
