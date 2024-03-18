@@ -1,7 +1,3 @@
-## 💫 About Me:
-🔭 Atualmente trabalho como técnico de sistemas em uma emissora de televisão.<br>👯 Estou procurando por oportunidades como Trainee ou Dev. Jr.<br>🤝 Aceito ajuda para aprender novas tecnologias de desenvolvimento Full-stack.<br>🌱 Atualmente estou estudando Inglês e Java.<br>👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/junkertiago/) 
 
