@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning microservices on Java<br>🎯 Goals: Knowing the world works remotely.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning microservices on Java.<br>🎯 Goals: Knowing the world works remotely.</p>
 
 ###
 
